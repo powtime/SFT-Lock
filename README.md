@@ -12,8 +12,6 @@ The accompanying paper evaluates the proposed mechanism against an ERC-404-style
 
 ## Paper
 
-**Zhixian Zhou, Bin Chen, Zhe Peng, Zhiming Liang, Ruijun Wu, Chen Sun, and Shuo Wang.**
-
 *Blockchain-Based Spectrum Resource Securitization via Semi-Fungible Token-Lock* (2026).
 
 - arXiv: [2601.15594](https://arxiv.org/abs/2601.15594)
